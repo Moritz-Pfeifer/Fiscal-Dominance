@@ -10,27 +10,27 @@ In the first step, we compare several machine learning and deep learning word-em
 
 This github releases the data and codes for the analysis of fiscal dominance in the following folders:
 
-- **[Data](https://github.com/Moritz-Pfeifer/Fiscal-Dominance/Data)**
+- **[Data](https://github.com/Moritz-Pfeifer/Fiscal-Dominance/tree/main/Data)**
   - This folder contains the raw and preprocessed data. 
-- **[Preprocessing](https://github.com/DataScientest-Studio/jan23_cds_dominance_budgetaire/tree/main/Preprocessing)**
+- **[Preprocessing](https://github.com/Moritz-Pfeifer/Fiscal-Dominance/tree/main/Preprocessing)**
   - This folder contains the scripts for preprocessing the data. 
-- **[Descripive Analysis](https://github.com/DataScientest-Studio/jan23_cds_dominance_budgetaire/tree/main/Descriptive_analysis)**
+- **[Descripive Analysis](https://github.com/Moritz-Pfeifer/Fiscal-Dominance/tree/main/Descriptive_analysis)**
   - This folder contains the scripts for the data overview and descriptives.  
-- **[NLP and Deep Learning Analysis](https://github.com/DataScientest-Studio/jan23_cds_dominance_budgetaire/tree/main/NLP_and_Deep_Learning_Analysis)**
+- **[NLP and Deep Learning Analysis](https://github.com/Moritz-Pfeifer/Fiscal-Dominance/tree/main/NLP_and_Deep_Learning_Analysis)**
   - This folder tests and compares the performance of various similarity measures on our dataset
-- **[Econometric Analysis](https://github.com/DataScientest-Studio/jan23_cds_dominance_budgetaire/tree/main/Macroeconomic_Analysis)**
+- **[Econometric Analysis](https://github.com/Moritz-Pfeifer/Fiscal-Dominance/tree/main/Macroeconomic_Analysis)**
   - This folder contains the script for macroeconomic analysis
-- **[Web Scraping Tool](https://github.com/DataScientest-Studio/jan23_cds_dominance_budgetaire/tree/main/Web-Scraping-Tools)**
+- **[Web Scraping Tool](https://github.com/Moritz-Pfeifer/Fiscal-Dominance/tree/main/Web-Scraping-Tools)**
   - This folder contains the scripts for scraping the central bank and finance ministries as well as the newspapers
  
-The result of our [similarity analysis](https://github.com/DataScientest-Studio/jan23_cds_dominance_budgetaire/tree/main/NLP_and_Deep_Learning_Analysis) shows that both the French and German central bank and finance ministry speeches become more similar over time. This development reaches a peak in 2015 and has since remained constant. On average, the similarity between the finance and monetary institutions in France tends to be more similar than in Germany. 
+The result of our [similarity analysis](https://github.com/Moritz-Pfeifer/Fiscal-Dominance/tree/main/NLP_and_Deep_Learning_Analysis) shows that both the French and German central bank and finance ministry speeches become more similar over time. This development reaches a peak in 2015 and has since remained constant. On average, the similarity between the finance and monetary institutions in France tends to be more similar than in Germany. 
 
 <div align="center">
   <img src="https://img.onl/k07tlm" alt="SBERT">
 </div>
 
 
-The result of our [econometric analysis](https://github.com/DataScientest-Studio/jan23_cds_dominance_budgetaire/tree/main/Macroeconomic_Analysis) shows that in France, fiscal dominance is driven by public debt. These results are robust and would provide empirical evidence for theory of fiscal dominance, i.e. that the central bank loses independence when the government is too indebted. In Germany, the results are less clear. 
+The result of our [econometric analysis](https://github.com/Moritz-Pfeifer/Fiscal-Dominance/tree/main/Macroeconomic_Analysis) shows that in France, fiscal dominance is driven by public debt. These results are robust and would provide empirical evidence for theory of fiscal dominance, i.e. that the central bank loses independence when the government is too indebted. In Germany, the results are less clear. 
 
 
 
