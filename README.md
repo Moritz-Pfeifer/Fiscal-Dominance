@@ -10,7 +10,7 @@ In the first step, we compare several machine learning and deep learning word-em
 
 This github releases the data and codes for the analysis of fiscal dominance in the following folders:
 
-- **[Data](https://github.com/DataScientest-Studio/jan23_cds_dominance_budgetaire/tree/main/Data)**
+- **[Data](https://github.com/Moritz-Pfeifer/Fiscal-Dominance/Data)**
   - This folder contains the raw and preprocessed data. 
 - **[Preprocessing](https://github.com/DataScientest-Studio/jan23_cds_dominance_budgetaire/tree/main/Preprocessing)**
   - This folder contains the scripts for preprocessing the data. 
